@@ -10,8 +10,3 @@ But here is a gif version of a broken clock superimposed on a classic illusion:
 </p>
 
 
-
-<p align="center">
-<img src="transparent_overlay_clock.gif" alt="Aging Illusion with Broken Clock">
-</p>
-
