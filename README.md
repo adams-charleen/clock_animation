@@ -1,7 +1,7 @@
 # Clock Animation
-Watch my faster clockwise clock animation: [clockwise.mp4](https://github.com/adams-charleen/clock_animation/raw/main/clockwise.mp4).
+Watch my sped-up clock animation: [clockwise.mp4](https://github.com/adams-charleen/clock_animation/raw/main/clockwise.mp4).
 
-The mp4 is dpi 600 and much easier on the eyes. But here is low-quality gif version: 
+The mp4 (DPI 600) and much easier on the eyes. But here is low-quality gif, too: 
 
 <p align="center">
 <img src="clockwise.gif" alt="Clock Animation">
