@@ -3,6 +3,5 @@ Watch my faster clockwise clock animation: [clockwise.mp4](https://github.com/ad
 
 The mp4 is dpi 600 and much easier on the eyes. But here is low-quality gif version: 
 
-<div style="text-align: center;">
 ![Clock Animation](clockwise.gif)
-</div>
+
