@@ -11,3 +11,9 @@ The mp4 is dpi 600 and much easier on the eyes. But here is low-quality gif vers
 |:-----------:|
 | ![Clock Animation](clockwise.gif) |
 
+
+
+<p align="center">
+<img src="clockwise.gif" alt="Clock Animation">
+</p>
+
