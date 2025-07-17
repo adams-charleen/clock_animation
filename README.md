@@ -1,6 +1,8 @@
-# 3D Aging and Circadian Disruption Animation
+# Circadian Disruption Animation
 
-Here’s a GIF version of a broken clock, superimposed on a classic optical illusion—do you see a young woman or an old one? The animation evokes how sleep dwindles with age, and how disrupting our circadian rhythms can accelerate the aging process.
+A broken clock, superimposed on a classic optical illusion—do you see a young woman or an old one? The animation evokes how sleep dwindles with age, and how disrupting our circadian rhythms can accelerate the aging process. 
+
+**NOTE:** If it's not moving, refresh the page.
 
 
 <p align="center">
@@ -8,6 +10,4 @@ Here’s a GIF version of a broken clock, superimposed on a classic optical illu
 </p>
 
 
-mp4 version: 
-
-[3d_clock_overlay.mp4](https://github.com/adams-charleen/clock_animation/raw/main/3d_clock_overlay.mp4).
+mp4 version: [3d_clock_overlay.mp4](https://github.com/adams-charleen/clock_animation/raw/main/3d_clock_overlay.mp4).
